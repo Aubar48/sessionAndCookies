@@ -13,7 +13,7 @@ git clone https://github.com/Aubar48/sessionAndCookies
 2. Navega hasta el directorio del proyecto:
 
 ```bash
-cd tpliebre
+cd sessionAndCookies-master
 ```
 
 3. Instala las dependencias del proyecto con el siguiente comando:
